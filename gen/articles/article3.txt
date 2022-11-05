@@ -1,0 +1,31 @@
+Wild primate virus has pandemic potential should it jump the species barrier, shows study
+https://www.coletnelson.us/cs571/f22/hw7/api/news/images/monkey
+science
+
+In a world still reeling from COVID-19, infectious disease researchers are eager to head off the next pandemic before it has the chance to spill over from animals to humans. But the scientific reality of pandemic prevention isn’t straightforward, and researchers have generally avoided making specific predictions about the potential of individual viruses to cause global disease.
+
+Sometimes, though, a signal is so compelling it can’t be ignored. One such signal has prompted a group of scientists to sound the alarm about an obscure virus in wild African primates — despite the fact that neither the virus nor any of its close relatives have ever been documented in humans.
+
+“It’s a pretty controversial prediction,” concedes Tony Goldberg, a professor of pathobiological sciences at the University of Wisconsin School of Veterinary Medicine.
+
+Goldberg is part of the group warning that simian hemorrhagic fever virus (SHFV) and its family of simian arteriviruses could pose a significant health risk to humanity should the right conditions allow it to leap from wild primates to people. The group has demonstrated the virus’s ability to infect human cells and deftly evade the human immune system’s typical responses. They have recently published their findings in the journal Cell.
+
+The researchers say there is no known risk to people now, and there is no guarantee the virus will make the jump from wild primates. But Goldberg and his colleagues say it’s important to understand these viruses and the risks they could pose.
+
+Goldberg and his collaborators on other campuses carried out sophisticated laboratory analyses that inform the group’s assertions. Their most recent lab work stems from a decades-long effort by Goldberg and colleagues to hunt down and describe potentially dangerous viruses lurking in wild places. In fact, it was Goldberg’s field work in the forests of Uganda that first identified wild strains of simian arteriviruses — strains used to understand the virus’s infectious potential in this latest research.
+
+“About 12 years ago, I decided to do some virus hunting on monkeys just to see what they had, because it was all the rage,” says Goldberg. “There’s this idea that monkeys are important reservoirs for future pandemic viruses.”
+
+That line of thinking is informed in part by the world’s experience with HIV, the human immunodeficiency virus, a pandemic that has killed millions since the virus was first identified in the 1980s. HIV is believed to have made the leap from wild primates to humans sometime in the early 20th century and spread slowly and quietly for decades until the right conditions allowed its transmission to explode with devastating consequences for global health.
+
+In his hunt for other potentially dangerous viruses, Goldberg took blood samples from wild primates in Uganda’s Kibale National Park. Back in Madison, Goldberg analyzed the samples with David O’Connor, a professor of pathology and laboratory medicine at the UW School of Medicine and Public Health (SMPH), and with Tom Friedrich, a professor of pathobiological sciences at the UW School of Veterinary Medicine. Together, the researchers applied early technologies in deep genome sequencing to look for viruses and identified multiple wild relatives of SHFV.
+
+This initial finding was important for several reasons, first and foremost being that it was the first time any relative of SHFV had been found in the wild. The virus had been implicated previously in mass deaths of captive macaques stricken with an Ebola-like hemorrhagic fever. Scientists believed the macaques were exposed to the virus from wild primates they encountered in captivity, and now Goldberg, O’Connor and Friedrich were able to provide evidence of SHFV’s wild origins.
+
+“That launched a decade of work with Dave, Tom and others looking at different variants of the virus,” says Goldberg. These investigations helped train a cohort of UW–Madison graduate students and post-doctoral scholars, such as Adam Bailey, then a graduate student and now a professor at SMPH.
+
+More than a decade later, the group studying SHFV’s pandemic potential has evolved. The latest research, led by scientists at University of Colorado Boulder, The Ohio State University and the National Institutes for Health, provides evidence that SHFV is not only a deadly threat to macaques but that it could cause similar disease in humans if the virus were able to make that inter-species jump.
+
+The findings amount to a bit of a “told you so” moment for Goldberg, who, with O’Connor, previously tried unsuccessfully to convince NIH to fund research investigating the possibility of SHFV infecting humans. He credited the “very fine, very careful” laboratory work of his colleagues in Colorado and Ohio with moving the research so far ahead.
+
+“This is somewhat of a vindication” he says.

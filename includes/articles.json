@@ -1,0 +1,305 @@
+[
+  {
+    "id": 0,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/space",
+    "title": "UW–Madison researchers key in revealing neutrinos emanating from galactic neighbor with a gigantic black hole",
+    "tags": [
+      "science"
+    ],
+    "body": [
+      "On Earth, billions of subatomic particles called neutrinos pass through us every second, but we never notice because they rarely interact with matter. Because of this, neutrinos can travel straight paths over vast distances unimpeded, carrying information about their cosmic origins.",
+      "Although most of these aptly named “ghost” particles detected on Earth originate from the Sun or our own atmosphere, some neutrinos come from the cosmos, far beyond our galaxy. These neutrinos, called astrophysical neutrinos, can provide valuable insight into some of the most powerful objects in the universe.",
+      "For the first time, an international team of scientists has found evidence of high-energy astrophysical neutrinos emanating from the galaxy NGC 1068 in the constellation Cetus.",
+      "The detection was made by the National Science Foundation-supported IceCube Neutrino Observatory, a 1-billion-ton neutrino telescope made of scientific instruments and ice situated 1.5-2.5 kilometers below the surface at the South Pole.",
+      "These new results, to be published tomorrow (Nov. 4, 2022) in Science, were shared in a presentation given today at the Wisconsin Institute for Discovery.",
+      "“One neutrino can single out a source. But only an observation with multiple neutrinos will reveal the obscured core of the most energetic cosmic objects,” says Francis Halzen, a University of Wisconsin–Madison professor of physics and principal investigator of the IceCube project. “IceCube has accumulated some 80 neutrinos of teraelectronvolt energy from NGC 1068, which are not yet enough to answer all our questions, but they definitely are the next big step toward the realization of neutrino astronomy.”",
+      "IceCube is run by the international IceCube Collaboration, which comprises over 350 scientists from 58 institutions around the world. The Wisconsin IceCube Particle Astrophysics Center (WIPAC), a research center at UW–Madison, is the lead institution for the IceCube project.",
+      "WIPAC is responsible for the maintenance and operation of the IceCube Neutrino Observatory, which includes ensuring that the detector runs around the clock. The observatory detects neutrinos through tiny flashes of blue light, called Cherenkov light, which are produced when neutrinos interact with molecules in the ice.",
+      "At WIPAC, a diverse team of scientists and technical and support staff make the data science-ready, enabling a wide range of investigations to be carried out by IceCube scientists. The WIPAC team delivered a new version of the first decade of IceCube data that used a significantly improved detector calibration. This superior dataset contributed to the identification of NGC 1068 as a neutrino source.",
+      "“Several years ago, NSF initiated an ambitious project to expand our understanding of the universe by combining established capabilities in optical and radio astronomy with new abilities to detect and measure phenomena like neutrinos and gravitational waves,” says Denise Caldwell, director of NSF’s Physics Division. “The IceCube Neutrino Observatory’s identification of a neighboring galaxy as a cosmic source of neutrinos is just the beginning of this new and exciting field that promises insights into the undiscovered power of massive black holes and other fundamental properties of the universe.”",
+      "The galaxy NGC 1068, also known as Messier 77, is one of the most familiar and well-studied galaxies to date. Located 47 million light-years away — close in astronomical terms —  this galaxy can be observed with a pair of large binoculars.",
+      "As is the case with our home galaxy, the Milky Way, NGC 1068 is a barred spiral galaxy, with loosely wound arms and a relatively small central bulge. However, unlike the Milky Way, NGC 1068 is an active galaxy where most radiation is not produced by stars, but rather by material falling into a black hole millions of times more massive than our Sun and even more massive than the inactive black hole at the center of the Milky Way.",
+      "The excess of about 80 neutrinos detected from the direction of NGC 1068 were found after improving analysis techniques and reprocessing data — work led by IceCube researchers at WIPAC. The revealing neutrino interactions seen in IceCube were modeled using new computational techniques that allow better measurement of each neutrino’s incoming direction, as well as machine learning for a more accurate measurement of the neutrino energy.",
+      "This latest result is a significant improvement from a prior study of NGC 1068 published in 2020, according to Ignacio Taboada, a physics professor at the Georgia Institute of Technology and spokesperson for the IceCube Collaboration.",
+      "“Part of this improvement came from enhanced techniques and part from a careful update of the detector calibration,” says Taboada. “Work by the detector operations and calibrations teams enabled better neutrino directional reconstructions to precisely pinpoint NGC 1068 and enable this observation.”",
+      "Albrecht Karle, a UW–Madison physics professor who is leading efforts to upgrade the current IceCube observatory, says the NGC 1068 detections are “great news” for the future of neutrino astronomy.",
+      "“It means that with a new generation of more sensitive detectors there will be much to discover,” says Karle, who is also leading the development of a next-generation neutrino observatory to be built as an extension and technological upgrade of the existing facility at the South Pole.",
+      "“The future second-generation IceCube-Gen2 observatory could not only detect many more of these extreme particle accelerators but would also allow their study at even higher energies,” says Karle.",
+      "The detection of dozens of neutrinos emanating from NGC 1068 comes several years after IceCube scientists reported the first observation of a high-energy astrophysical neutrino source. That source was TXS 0506+056, a blazar located about 4 billion light-years away, beyond the left shoulder of the Orion constellation. The NGC 1068 observations suggest there are more sources of astrophysical neutrinos yet to be discovered.",
+      "“IceCube has previously discovered that the universe is glowing brightly in neutrinos, and the origin of that glow has been an exciting mystery,” says Justin Vandenbroucke, a physics professor at UW–Madison and a member of IceCube. “NGC 1068 provides one key piece of that puzzle and can explain only about one hundredth of the total signal: There must be many additional neutrino sources, and likely additional types of sources, waiting to be discovered.”",
+      "The unveiling of the obscured universe has just started, and neutrinos are set to lead a new era of discovery in astronomy."
+    ]
+  },
+  {
+    "id": 1,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/exhibit",
+    "title": "New interactive mural invites exploration and engagement with science",
+    "tags": [
+      "science",
+      "entertainment"
+    ],
+    "body": [
+      "Bright colors, bold lines and intricate patterns framed within abstract shapes come together to form a new mural currently on display in the first-floor atrium of the Discovery Building.",
+      "Created by Wisconsin artists in partnership with the Illuminating Discovery’s Science to Street Art initiative at the Wisconsin Institute for Discovery, the Morgridge Institute for Research and the Wisconsin Alumni Research Foundation, “Landscape of Discovery” is a multilayered, Wisconsin-inspired mural featuring popular historical figures and modern-day scientists.",
+      "A key feature of the mural is that it’s interactive. Hidden surprises reveal themselves when the onlooker investigates close up and encounters QR codes scattered throughout the installation. With the scan of a QR code, visitors arrive at a website describing the 12 real scientists depicted in the mural as well as anonymous people who represent the multitudes of historically under-recognized scientists.",
+      "“Murals are an invitation, and because they belong to a physical space, they inspire collective identity and give visible voice to the soul of a community,” says muralist Sharon Tang, lead artist and current doctoral candidate in cell and molecular biology at UW–Madison.",
+      "Some of the real scientists depicted include Bassam Shakhashiri, chemistry professor and founder of the Wisconsin Initiative for Science Literacy, and Hector DeLuca, whose pioneering work on vitamin D has led to many new treatments. But just as important are lesser-known scientists such Jessie Price, a veterinary microbiologist who developed vaccines for life-threatening diseases of ducks and other waterfowl, as well as anonymous people in the act of doing science.",
+      "These figures represent the cutting-edge and interdisciplinary science occurring within the Discovery Building, which includes WID and the Morgridge Institute. The hope is that the mural will inspire the next generation — something that is important to muralist Tang.",
+      "“As a former teacher, artist and now as a scientist in training, I firmly believe that there is incredible potential to enhance the accessibility of science in society through art, starting with the creation of spaces that boldly invite belonging,” Tang says.",
+      "To create the mural, Tang collaborated with Amy Zaremba, co-creator and owner of Zaremba Art LLC, and Alicia Rheal, artist and owner of Rheal Imagination. The mural was installed over the summer of 2022 and is the result of artist and scientist conversations held in spring. The mural’s target audiences are the thousands of visiting students and their families as well as current students of all ages. The mural is a tool for bringing awareness about the multitude of STEM subjects to the public and for inspiring people to explore and engage in science, whatever that may look like.",
+      "“As an immigrant, first-generation college student and woman in science, I have faced the harsh realities and inequities of being a minority member in less inclusive research communities,” says Tang. “These experiences have galvanized my desire to make tangible contributions to foster belonging and representation in academic spaces at UW–Madison and beyond.”",
+      "Visitors to the Discovery Building can view the mural and interact with it daily during business hours."
+    ]
+  },
+  {
+    "id": 2,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/sewer",
+    "title": "Sewer sleuthing, air vacuuming scientists keep tabs on COVID-19",
+    "tags": [
+      "science",
+      "covid"
+    ],
+    "body": [
+      "David O’Connor believes poop can tell you a lot about yourself and those around you — and there’s science to back him up.",
+      "While analyzing data from wastewater samples collected by the Wisconsin State Laboratory of Hygiene earlier this year, O’Connor and his colleagues detected a highly mutated version of the virus that causes COVID-19 called a cryptic lineage. With some careful scientific sleuthing, they were able to track the lineage to a single source.",
+      "What’s curious about cryptic lineages is that, through some unknown process, they develop the same spike gene mutations found in variants of concern, like omicron, despite not being descended from these or related strains. Scientists are interested in studying these lineages, which might be the origin of the next major COVID variant and a widespread wave of infection.",
+      "“How could one person’s virus shed into wastewater have many of the same changes that took the [omicron variant] over two years to ‘figure out’ as it spread through the world? That’s the huge question we are trying to figure out,” says O’Connor, a professor in the Department of Pathology and Laboratory Medicine at the University of Wisconsin–Madison.",
+      "This is why he and his team were so keen on tracking the lineage they detected back to its source. Their findings are the subject of a study published ahead of peer review on Nov. 1 in medRxiv and the focus of a recent story published in Nature this September.",
+      "“It’s like CSI Sewer,” O’Connor explains. “We had a map of where the manhole locations were (where the wastewater samples originated), so we would strategically try to choose which ones would allow us to narrow the source.”",
+      "By eliminating the samples that were negative for the cryptic lineage and tracing the positive manholes around the map, the team could determine the specific office building from which the lineage was being expelled. The team’s goal is to test the office workers in the building to see if they can pinpoint the individual shedding the unique virus.",
+      "If they can can find this person, they may be able to better understand how infectious the cryptic lineage could be and whether it can survive outside the gut environment.",
+      "But doing so requires office workers to volunteer themselves for testing. Some of the workers in the building agreed to nasal swabbing, but the researchers have yet to see the same cryptic lineage in those samples.",
+      "That raises a few questions: Is the individual with the cryptic lineage not one of the workers who volunteered for a nasal swab? Is the virus detectable in waste but not in the nasal passageway? Or, is the individual even shedding the virus anymore?",
+      "The next step in tracking down the individual is to collect fecal samples from the office workers.",
+      "Finding this cryptic lineage in Wisconsin also made O’Connor wonder how many other people around the country and the world had similar mutations, with unknown levels of infectiousness. He says he can imagine a world where the infrastructure for regular wastewater monitoring exists all the time, giving scientists access to community infection rates without a reliance on individual testing.",
+      "After all, COVID fatigue is real. Many fewer people are seeking out PCR testing, maybe to avoid the brain-scraping feeling of nasal swabs, because they’re finding less testing availability in their communities or, like many people, because they’re shifting into a post-pandemic mindset.",
+      "Since it isn’t realistic to expect everyone in a community to test all the time, passive community testing like wastewater sampling provides a sort of happy medium. So, too, might another passive approach: vacuuming up what’s floating in the air.",
+      "Across the hall from David O’Connor, another researcher’s lab is studying respiratory viruses that might be found in the air in places like schools and nursing homes. Meet Shelby O’Connor, a professor in the Department of Pathology and Laboratory Medicine at UW–Madison, who also happens to be married to David.",
+      "Through a partnership with Thermo Fisher that began last year, Shelby’s lab has been collaborating with David’s to monitor the presence of COVID-19 using AerosolSense instruments that suck up air and trap the stuff floating in it on foam cartridges.",
+      "So far, they’ve placed devices in public schools, nursing homes and David’s lecture class at UW–Madison, where they collect air for a day or two, gobbling up viruses and whatever else is floating around.",
+      "Back in the lab, the O’Connors and their team use a solvent to squeeze everything the sponge captured into a tube.",
+      "Since the air sampling devices collect more than just viruses, the researchers then conduct tests to see if potential viruses of concern are present and work to identify the ones that are.",
+      "They do this through a process called sequencing, where they look at the basic building blocks of viral genetic material that may be present in their sample, called nucleotides, and the order in which they’re strung together. That ordered string can then be used to identify what viruses the team is seeing in a sample.",
+      "Sequencing can be used to look specifically for COVID-19 but also to zoom out and identify other respiratory viruses, like influenza or other unknown viruses, that may be present in the air. Being able to look both specifically and broadly gives the researchers the potential to monitor the air in these locations for viruses that could lead to future outbreaks.",
+      "“What’s interesting is we have seen different viruses showing up in different populations,” Shelby says. “For example, on the university campus, we saw influenza in late 2021, but in the surrounding K-12 schools where we were running these samplers, we did not see influenza.”",
+      "Strategically placing these devices may help high-risk communities prepare for potential disease outbreaks, allowing them to adopt mitigation strategies to help keep patients in nursing homes safe and schools open.",
+      "Their further studies could also present an opportunity for tracking and understanding local infection rate data. For instance, researchers could create a dashboard for specific buildings and high-traffic areas, such as airports, so people visiting or passing through can be better informed on their risk of exposure to various viruses.",
+      "A central theme of both David and Shelby’s research revolves around conducting science that makes data actionable and impactful for non-scientists. Despite COVID fatigue, Shelby and David’s teams have continued collaborating with other scientists and community partners.",
+      "“I think it’s really great when we get to work with people who are also as excited to help each other as we are. It’s been really nice to see how many people can be community-focused, through this process,” Shelby says.",
+      "In the O’Connors’ ideal world, air sampling devices would be in every airport and sewer system, constantly collecting data and helping the public stay more informed about disease risks.",
+      "But while these technologies are moving further from science fiction and closer to reality every day, the O’Connors stress that it’s important for people to continue using the effective mitigation tools we already have to prevent the spread of respiratory diseases like COVID-19 and flu. Masks, regular handwashing, staying home if you feel sick and staying up-to-date on available vaccines are all steps people can take to protect themselves and each other.",
+      "“You have to still recognize your risk in particular situations,” Shelby says.  “Even if scientists are doing their darndest to predict the best they can, it’s still biology. There are things we can’t control, and so you have to still take care of yourself.”"
+    ]
+  },
+  {
+    "id": 3,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/mentalhealth",
+    "title": "Students of innovative course report significantly improved mental health and flourishing",
+    "tags": [
+      "wellness"
+    ],
+    "body": [
+      "Navigating the transitional stress of starting college can challenge young adults’ mental health. Thrust into unfamiliar social situations and new home environments, students face increased academic pressure and the responsibility of making important life decisions for the first time. Layer on the continuing stressors of a global pandemic, war and racial acts of violence and it’s no surprise that a mental health crisis exists on many college campuses. ",
+      "To help combat this crisis, researchers at the University of Wisconsin–Madison’s Center for Healthy Minds have contributed to the design of an innovative course that provides students with evidence-based tools to protect and improve their mental health. ",
+      "Promising new findings published recently in the journal Mindfulness found that students who took the course reported significantly improved mental health upon completion. The prevalence of clinical depression among participating students decreased by nearly half, and severe depression decreased by two-thirds.",
+      "There were no changes in these metrics for control participants. At the same time, students in the course reported significant gains in flourishing – deep satisfaction, resilience, accomplishment and purpose. These results point to a potentially scalable curricular approach to promote flourishing in college students. ",
+      "“These findings are particularly encouraging because they suggest that the course was as useful for students suffering from more significant depressive symptoms, even severe symptoms, as it was for students with symptoms in the normative range,” says Matt Hirshberg, Center for Healthy Minds scientist and lead author of the study. “Thus, these data at least hint at the potential utility of this course as a universal preventive strategy for new college students.”  ",
+      "Beginning in 2016, a multidisciplinary team of scholars from UW–Madison, Pennsylvania State University and the University of Virginia set out to develop a for-credit course that could become a general education requirement similar to courses like composition or calculus that are required for first-year students on many campuses.  ",
+      "This effort produced the Art and Science of Human Flourishing course. The curriculum melds intellectual rigor investigating the sources of deep satisfaction, resilience, accomplishment and purpose with semester-long experiential learning in awareness, connection and other meditation techniques that support flourishing directly.  ",
+      "Primarily first-year students at UW–Madison, PSU and UVA enrolled in the course in 2018 and 2019, in a two-wave matched controlled trial. Researchers surveyed students before they started the course and again at completion on a range of factors, including attention, social-emotional skill development, flourishing perspectives, mental health, health and risk behavior outcomes. ",
+      "The course is structured around five themes: Foundations of Flourishing (the science of personal transformation), Awareness (the importance of emotion, focus and mindfulness), Connection (qualities of compassion and belonging), Insight (crafting an individual vision and plan for flourishing) and Integration (pulling it all together). The course includes readings, lectures, written reflections, large and small group exercises, meditation “labs,” seminars and at-home practice.  ",
+      "The intellectual foundation for the course is rooted in contemplative neuroscience pioneered at UW’s Center for Healthy Minds.   ",
+      "This method helps students achieve a fully integrated understanding as well as an individual roadmap for flourishing during and beyond the course. The research team hopes that as a universal first-year requirement, the course could make big waves in supporting student mental health nationally and globally.  ",
+      "“We aim to support students in seeing themselves and their lives as precious and as something that they can begin to contemplate and take active steps to shape in healthy and prosocial ways during their college years,” says Robert Roeser, a professor of human development and family studies at Penn State and the overall study lead.  ",
+      "The research results support this hope. In addition to reporting fewer symptoms of clinical depression, participating students reported significantly improved mental health and flourishing, improvements in attention and self-compassion and increases in prosocial attitudes like empathic concern and shared humanity compared to control participants.  ",
+      "The researchers note that many important questions remain. For example, there was no evidence the course impacts health or risk behaviors such as sleep quality or alcohol use, which could indicate that these outcomes take more time to change, or that they’re not affected by the course. ",
+      "The researchers are currently analyzing additional data collected during the COVID-19 pandemic for further insights about course impacts during the first two years of that disruptive period. At a time when rates of mental health concerns are at historic levels among adolescents, the study offers hope that university curricula could help support mental wellbeing among students.  ",
+      "Richard Davidson, a UW–Madison professor of psychology, founder of the Center for Healthy Minds and a co-author of the report, says he hopes that “in the near future, every student at UW–Madison would have the opportunity to take this course.” "
+    ]
+  },
+  {
+    "id": 4,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/fish",
+    "title": "Marine Protected Area creates spillover benefits for tuna fishing in Hawaii",
+    "tags": [
+      "science"
+    ],
+    "body": [
+      "A new study shows that carefully placed no-fishing zones can provide benefits for both fishermen and fish populations.",
+      "Jennifer Raynor, a professor of natural resource economics at the University of Wisconsin­­–Madison, collaborated with researchers from the University of Hawaii to study how the creation of the world’s largest marine protected area (MPA) in Hawaiian waters affected the local tuna fishing industry. The study was published recently in the journal Science.",
+      "In 2006, the Papahānaumokuākea Marine National Monument was established to preserve important cultural sites for Native Hawaiians; the protected area was expanded to about four times its original size in 2016. The monument was a major victory for conservationists but raised concerns among local fishermen about losing access to these fishing grounds.",
+      "“The intention for creating this space was not necessarily to protect tuna. The fact that it did was in some ways a happy accident,” Raynor says.",
+      "There are both cultural and economic factors wrapped up in the monument and the tuna fishing industry in Hawaii. Tuna is a central part of Hawaiian diet and culture; protecting Hawaiian cultural sites is central to the MPA. But tuna fishing also generates $40 billion a year to the global economy and supports millions of jobs.",
+      "In some ways, Raynor says establishing these no-fishing zones with a cultural motivation rather than a scientific motivation of protecting tuna populations makes it more difficult to justify the MPA to fishermen. That’s why it was important to show through this study that despite the upfront costs, fishermen are already starting to benefit from the MPA, and those benefits are expected to grow in the future.",
+      "What makes this MPA a win-win-win for the environment, native people and fishermen is a concept called “spillover.” The idea is that protected waters give the species a chance to flourish, causing an increase in overall population that can spill over beyond the MPA and increase fishermen’s catch rates and profits.",
+      "“I am a big fan of evidence-based policy,” Raynor says. “I think the best way we can make good policies that are efficient, effective and sustainable is to understand the science that tells us what direction we should be going in.”",
+      "To show that the MPA actually caused the increased tuna populations, Raynor played a key role in applying a statistical technique referred to as “difference in difference.”  This technique compares catch rates for fish near the monument to areas farther away, both before and after the monument expansion in 2016.",
+      "The results showed that catch rates in waters close to the MPA increased by about 54% for yellowfin tuna, about 12% for bigeye tuna and about 8% across all fish species.",
+      "Since many tuna remain within 200-400 miles of the Hawaiian islands during their lifetime, the team also looked at how catch rates change in 1-mile increments up to 600 miles away from the MPA border. They found that catch rates rose as they grew closer to the monument.",
+      "Seeing increases like this in migratory species is significant because similar results had only previously been seen in resident fish populations.",
+      "“This is a great thing for Native Hawaiians,” Raynor says. “This protected area that they were fighting so hard for actually creates benefits for ecosystems and benefits for other people in the region too. I think it’s a really wonderful thing.”",
+      "Raynor believes the best way to solve challenging, multifaceted issues is to bring together experts who can add a variety of experiences and perspectives to the conversation. This project and partnership with researchers from the University of Hawaii was an example of that belief in action.",
+      "Raynor is a newer addition to the College of Agricultural and Life Science’s Department of Forest and Wildlife Ecology at UW–Madison, bringing her expertise in the intersection of ecology management and economics to the university this semester. She earned her PhD in agricultural and applied economics at UW–Madison in 2017 before going on to work at the National Oceanic and Atmospheric Administration and later at Wesleyan University.",
+      "Returning to UW–Madison and its collaborative research environment was an opportunity Raynor knew she couldn’t pass up.",
+      "“People from lots of different disciplines are focusing on one thing: natural resource use and management,” she says. “I was really excited about being in an interdisciplinary department with a great group of people who I have a lot of research synergies with.”"
+    ]
+  },
+  {
+    "id": 5,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/monkey",
+    "title": "Wild primate virus has pandemic potential should it jump the species barrier, shows study",
+    "tags": [
+      "science"
+    ],
+    "body": [
+      "In a world still reeling from COVID-19, infectious disease researchers are eager to head off the next pandemic before it has the chance to spill over from animals to humans. But the scientific reality of pandemic prevention isn’t straightforward, and researchers have generally avoided making specific predictions about the potential of individual viruses to cause global disease.",
+      "Sometimes, though, a signal is so compelling it can’t be ignored. One such signal has prompted a group of scientists to sound the alarm about an obscure virus in wild African primates — despite the fact that neither the virus nor any of its close relatives have ever been documented in humans.",
+      "“It’s a pretty controversial prediction,” concedes Tony Goldberg, a professor of pathobiological sciences at the University of Wisconsin School of Veterinary Medicine.",
+      "Goldberg is part of the group warning that simian hemorrhagic fever virus (SHFV) and its family of simian arteriviruses could pose a significant health risk to humanity should the right conditions allow it to leap from wild primates to people. The group has demonstrated the virus’s ability to infect human cells and deftly evade the human immune system’s typical responses. They have recently published their findings in the journal Cell.",
+      "The researchers say there is no known risk to people now, and there is no guarantee the virus will make the jump from wild primates. But Goldberg and his colleagues say it’s important to understand these viruses and the risks they could pose.",
+      "Goldberg and his collaborators on other campuses carried out sophisticated laboratory analyses that inform the group’s assertions. Their most recent lab work stems from a decades-long effort by Goldberg and colleagues to hunt down and describe potentially dangerous viruses lurking in wild places. In fact, it was Goldberg’s field work in the forests of Uganda that first identified wild strains of simian arteriviruses — strains used to understand the virus’s infectious potential in this latest research.",
+      "“About 12 years ago, I decided to do some virus hunting on monkeys just to see what they had, because it was all the rage,” says Goldberg. “There’s this idea that monkeys are important reservoirs for future pandemic viruses.”",
+      "That line of thinking is informed in part by the world’s experience with HIV, the human immunodeficiency virus, a pandemic that has killed millions since the virus was first identified in the 1980s. HIV is believed to have made the leap from wild primates to humans sometime in the early 20th century and spread slowly and quietly for decades until the right conditions allowed its transmission to explode with devastating consequences for global health.",
+      "In his hunt for other potentially dangerous viruses, Goldberg took blood samples from wild primates in Uganda’s Kibale National Park. Back in Madison, Goldberg analyzed the samples with David O’Connor, a professor of pathology and laboratory medicine at the UW School of Medicine and Public Health (SMPH), and with Tom Friedrich, a professor of pathobiological sciences at the UW School of Veterinary Medicine. Together, the researchers applied early technologies in deep genome sequencing to look for viruses and identified multiple wild relatives of SHFV.",
+      "This initial finding was important for several reasons, first and foremost being that it was the first time any relative of SHFV had been found in the wild. The virus had been implicated previously in mass deaths of captive macaques stricken with an Ebola-like hemorrhagic fever. Scientists believed the macaques were exposed to the virus from wild primates they encountered in captivity, and now Goldberg, O’Connor and Friedrich were able to provide evidence of SHFV’s wild origins.",
+      "“That launched a decade of work with Dave, Tom and others looking at different variants of the virus,” says Goldberg. These investigations helped train a cohort of UW–Madison graduate students and post-doctoral scholars, such as Adam Bailey, then a graduate student and now a professor at SMPH.",
+      "More than a decade later, the group studying SHFV’s pandemic potential has evolved. The latest research, led by scientists at University of Colorado Boulder, The Ohio State University and the National Institutes for Health, provides evidence that SHFV is not only a deadly threat to macaques but that it could cause similar disease in humans if the virus were able to make that inter-species jump.",
+      "The findings amount to a bit of a “told you so” moment for Goldberg, who, with O’Connor, previously tried unsuccessfully to convince NIH to fund research investigating the possibility of SHFV infecting humans. He credited the “very fine, very careful” laboratory work of his colleagues in Colorado and Ohio with moving the research so far ahead.",
+      "“This is somewhat of a vindication” he says."
+    ]
+  },
+  {
+    "id": 6,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/berens",
+    "title": "Holy smokes! Charlie Berens to be UW–Madison winter commencement speaker ",
+    "tags": [
+      "entertainment"
+    ],
+    "body": [
+      "He’s a New York Times best-selling author, an Emmy-winning journalist, a popular podcast host, and the creator of “Manitowoc Minute.” ",
+      "Now comedian Charlie Berens can add another descriptor to his name: commencement speaker at his alma mater. ",
+      "Berens, who earned a bachelor’s degree from the University of Wisconsin–Madison in journalism and geography in 2009, will give the charge to graduates at UW–Madison’s 2022 winter commencement. The ceremony will be at the Kohl Center at 10 a.m. Sunday, Dec. 18.  ",
+      "Commencement speakers are chosen by the senior class officers in consultation with the Chancellor’s Office. ",
+      "“Charlie Berens is a Wisconsin cultural ambassador for all corners of the state,” says Liam McLean, senior class president. “It is fitting to have him speak to our winter commencement graduates as his reach and our university grow in scope and status.” ",
+      "Chancellor Jennifer Mnookin met Berens at the Wisconsin State Fair in August during her first week on the job. ",
+      "“As someone new to Wisconsin, I’ve learned a lot from Charlie, like the importance of getting the buttered rye bread with the Friday night fish fry and watching out for deer on the roads,” Mnookin says. “He’s a great comedian, but much more — an entrepreneur, a business owner, a skilled interviewer, a proud Badger. I’m delighted he will be offering his wisdom to our graduates.”  ",
+      "Berens, who grew up in suburban Milwaukee, has been featured on Comedy Central, Fox, CBS, Funny or Die, TBS, MTV News and many more outlets. He creates weekly content for his various social platforms and has amassed over 6.5 million followers. ",
+      "In 2017, Berens began hosting his weekly comedic online news show “Manitowoc Minute,” serving up a mix of headlines from his home state with a hearty dose of charm and inside jokes. Since then, he’s been creating Midwest-focused sketch comedy videos on his social media platforms. He’s also traveled the country with three sold out stand-up comedy tours. ",
+      "His first book, “The Midwest Survival Guide,” was released in November 2021 by William Morrow/Harper Collins and immediately became a New York Times bestseller. He hosts the Cripescast podcast, where he interviews musicians, artists, comedians, creators and more to talk about their lives and connections to the Midwest.  ",
+      "“Hey Badgers, I want to thank you so much for inviting me to be your commencement speaker at winter commencement on Dec. 18,” Berens says. “I’ll see you there. Until then, keep ’er movin’.” "
+    ]
+  },
+  {
+    "id": 7,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/covid",
+    "title": "Partisan divide contributed to false sense of racial equality in pandemic mortality",
+    "tags": [
+      "covid",
+      "social justice"
+    ],
+    "body": [
+      "The early months of the COVID-19 pandemic were marked by far higher death rates among Black people than white people in the United States. Before 2020 ended, however, differences between the two groups had nearly equalized.",
+      "What may have appeared to be equality was not an improvement for Black people, but an increasingly worse pandemic for white people. Despite the appearance of raw mortality counts, analysis by researchers at the University of Wisconsin–Madison confirms that Black Americans shoulder a comparatively greater mortality burden, even when accounting for their comparatively younger population with age-standardization, and widening partisan differences likely contributed to the jump in white deaths.",
+      "“The takeaway for many people may be, ‘Oh, isn’t it a good thing that we diminished the racial difference in mortality?’ But that doesn’t address what changed, and that the changes were not for the better,” says Adeline Lo, lead author of the study, published recently in the journal PLOS ONE, and a UW–Madison professor of political science. “It’s important to underline what is actually happening, and to show the important role that politics play.”",
+      "Black and Latino people are disproportionately more likely to work in jobs that have to be done in person and in close contact with other people, Lo says, leaving them more likely to be exposed and infected by the virus that causes COVID-19.",
+      "“That didn’t change as the racial differences in the mortality rate shifted,” Lo says. “Other factors — like geographical distribution, healthcare access, income equality — that contributed to the initial higher rate of Black deaths didn’t go away either.”",
+      "What did change was that spiraling death counts disproportionately tilted toward white people, and differences in levels of concern about the pandemic and acceptance of protective public health measures grew along political lines.",
+      "“We’ve seen all of our states react very differently to different moments in time of the pandemic. Stay-at-home mandates, school closures or work closures, suggestions to not congregate in groups over a certain size — these are all sort of the battery of things available to public policy at a state level,” Lo says. “Over time, there were much different policies in place in states with Republican governors than in states with Democratic governors.”",
+      "Using an index of pandemic containment and health policy from the University of Oxford COVID-19 Government Response Tracker compiled weekly for each state in the U.S. through May 2021, the researchers showed that state policies reacted similarly for a few weeks at the beginning of the pandemic.",
+      "However, within a month, states with Republican-controlled executive branches were lifting pandemic-related measures, leading to lower index scores compared to those of other states. The index gap continued to grow from about April through October in 2020. At the same time, deaths of white people grew fast enough to outpace already high counts among Black people.",
+      "“If you were under a Republican governor, who is likely to enact fewer protective policies at a slower rate, that has an effect on COVID’s spread and — controlling for age and other factors in mortality — is negatively correlated with COVID inequality,” Lo says. “In states where you’re less likely to see public health policies to contain the virus, you’re more likely to see white deaths in equal proportion with Black deaths, but not because the death rates are any better for Black people in those states.”",
+      "Public opinion polling, also conducted weekly through May 2021, shows a widening gap in concern about COVID-19 between people who identified as Democrats and those who identified as Republicans.",
+      "More than 20 percent of Republicans polled at the start the pandemic reported they were “extremely concerned by the coronavirus outbreak,” but that quickly fell to less than 10 percent and stayed near or below that figure into 2021. The proportion of Republicans “not very concerned” began at fewer than 20 percent but doubled in a month and grew to nearly 70 percent by May of 2021. Meanwhile, between 50 and 70 percent Democrats were “extremely concerned” throughout 2020, while less than 10 percent reported they were “not concerned” all the way through 2020 to May of 2021.",
+      "“As Republicans are growing less concerned about the pandemic compared to Democrats, white deaths grew to surpass Black deaths until we see this false sort of equality,” Lo says.",
+      "Importantly, the researchers separated the party opinions by race as well, showing that Black people’s level of concern about the virus ran close to that of the white people who shared their political affiliation, but far from the Black people who identified with the other political party.",
+      "“Race obviously matters when looking at the concern that motivates people’s behavior,” says Lo. “But if we’re comparing magnitudes, party politics appears to be a far stronger indication of how individuals are reacting to the virus.”",
+      "The changes in party-related sentiment and policy alongside shifting mortality figures are stark evidence of the way partisan divisions can manifest in our lives, according to the research team, which included La Follette School of Public Affairs professor Héctor Pifarré i Arolas, political science professor Jonathan Renshon and Siyu Liang, a graduate student in political science at the University of California Los Angeles who worked on the study while an undergraduate at UW–Madison.",
+      "“Polarization of public opinion has huge impacts across both our political arena and, it turns out, public health as well. The outcomes can be hugely important,” says Lo. “The issue of polarization and the inability of groups to communicate on similar grounds and find ways to drift closer together rather than further apart was a concern already. The pandemic and the way it shows up in these results have made us even more worried.”"
+    ]
+  },
+  {
+    "id": 8,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/grad",
+    "title": "Grad students work with climatologist on tool to alert communities to dangerous heat levels",
+    "tags": [
+      "science",
+      "social justice"
+    ],
+    "body": [
+      "As dangerous heat levels are breaking records across the United States and the world, three University of Wisconsin–Madison graduate students are collecting data to inform a heat warning system based on health outcomes — a tool they hope could eventually save lives.",
+      "Nelson Institute Environment & Resources PhD students Elizabeth Berg and Becky Rose and Public Health and Public Affairs masters degree student Sara Pabich are tracking extreme heat events in six cities, including Madison and Milwaukee.",
+      "They’re working with climatologist Larry Kalkstein as a part of the Wisconsin Heat Health Network, which is supported by UniverCity Alliance and collaborators that include the City of Madison, Milwaukee County, City of Milwaukee, and Dane County. Their research will inform a warning system in Madison and Milwaukee based on health outcomes that considers mortality and weather data rather than only meteorology.",
+      "“People’s response to heat is more important than the intensity of the heat itself. We are trying to determine when people are most sensitive to heat waves,” said Kalkstein, who is the president of Applied Climatologists, Inc. and chief heat science advisor for the Adrienne Arsht-Rockefeller Foundation Resilience Center. “Health practitioners want to know when people are most vulnerable to heat related illnesses and deaths.”",
+      "The stakes are high. According to a 2021 report from the Wisconsin Initiative on Climate Change Impacts, the number of days that will exceed 90 degrees in Wisconsin is expected to triple by mid-century. Extreme heat already causes more fatalities than any other weather-related event in the state and the country.",
+      "“The most direct hopeful outcome will be saving people’s lives during these heat events that will become more and more frequent and severe,” said Rose, who is advised by Nelson Institute associate professors Aslıgül Göçmen and Annemarie Schneider.",
+      "In practice, the new warning system could help policymakers make decisions for how their population can stay healthy during extreme heat. This could include neighbors deciding to check in on an elderly resident and a city opening more cooling centers throughout a community affected by extreme heat.",
+      "Berg works in the Department of Agronomy and Nelson Institute Center for Sustainability and the Global Environment (SAGE) affiliate, Chris Kucharik’s lab. She has been working with Kalkstein for more than two years and said it’s important for leaders to consider the locations and demographics of those who are being affected disproportionately by the heat.",
+      "In Milwaukee, Berg is analyzing more specific health data by zip code instead of the entire city.",
+      "“We’ve already known that extreme heat doesn’t impact everyone equally,” said Berg, noting that factors like housing and socioeconomic status are contributing factors. “I’d love for this to be a starting point for not just increasing communication about heat, but to make it easier for cities to target interventions specifically where they’re needed.”",
+      "Madison and Milwaukee became involved in 2020 when UCA Managing Director Gavin Luter organized a group of interested stakeholders to have an initial networking meeting about heat and health. This group included Dane County, the City of Madison, the Sustainable Madison Committee, the Wisconsin Initiative on Climate Change Impacts, and UW–Madison’s Global Health Institute.",
+      "Eventually, the group became the Heat Health Network and expanded to include representatives from the Wisconsin Department of Health Services, Milwaukee County’s Office of Emergency Management, the City of Milwaukee Sustainability Office, the Milwaukee Metropolitan Sewerage District, UW–Madison’s agronomy department, a University of Minnesota-Twin Cities graduate student, and Public Health Madison & Dane County.",
+      "These collaborators are coordinating with the National Weather Service’s Sullivan office this summer to evaluate the pilot program. They hope the lessons learned in Madison and Milwaukee will support exploring the feasibility of expanding the heat health warning system around the state.",
+      "“The whole purpose of this at the end of the summer is to compare all of the data to see how closely it follows the National Weather Service’s heat advisories,” Pabich said. “We want this system to be effective and replicable to other at-risk areas in the state. Essentially, we want it to align with the National Weather Service but also add the human mortality rate component.”",
+      "Kalkstein’s algorithm factors in historical health data, historical air mass types and frequency of each type, and calculated heat wave intensity, to produce one of three heat wave categories that increase numerically by risk.",
+      "The data collection site has been running since mid-May and has been adjusted to warn stakeholders and meteorologists when a city is in the top 5% of excessive heat conditions. The student researchers track the data daily, comparing how the algorithm’s heat warnings align with warnings from the National Weather Service.",
+      "This work is financially supported through the Climate-Ready States and Cities Initiative through the Centers for Disease Control that was secured by DHS.",
+      "The Adrienne Arsht-Rockefeller Foundation Resilience Center, which aims to build individual and community climate resilience in the wake of climate change, is funding separate but related work to implement a heat ranking system. Other cities currently being studied include Los Angeles; Miami; Kansas City, Mo.; Seville, Spain; and Athens, Greece.",
+      "This summer marked a milestone for Seville, which became the first city in the world to implement the ranking program. The city also named its first heat wave Zoe.",
+      "“I’m just glad to have a system that is based on health outcomes and not strictly on meteorology,” Kalkstein said. “It’s very important to have that because most of the stakeholders respond to emergency room visits, mortality — all of these things that are really important when it comes to heat waves.”",
+      "Cities across the nation and world are taking notice. Kalkstein said he’s fielded inquiries from New Orleans, South Korea, and Brazil and “wouldn’t be surprised” if about a dozen more cities joined next year.",
+      "What’s next? In Madison and Milwaukee, the next step is to evaluate.",
+      "Kalkstein said a summer’s worth of data will inform if the algorithm should be adjusted. He also suggested forming a heat taskforce to discuss and coordinate what policies the cities are implementing when a heat warning is called.",
+      "This is important because if the ranking system is implemented, municipalities would need to make sure residents understand it and what resources they can use to stay cool, safe, and healthy.",
+      "After observing the data for about two months, Berg said she can confirm that extreme heat is more dangerous in areas with more temperate and less consistently warm climates, like Madison.",
+      "“In the U.S., it’s been the places that have much more seasonal variation where we have met those metrics for dangerous heat waves,” Berg said.",
+      "Pabich, who is also a climate data assistant with Dane County, is looking forward to discussing the public education component of implementing a new ranking system.",
+      "“I really love the public health angle of combining how the environment affects public health and what we are doing both at the county level and then what the Wisconsin Department of Health Services is eventually going to do with this information,” she said.",
+      "Rose said she hopes the Wisconsin Heat Health Network’s work will result in meaningful policy changes not only like opening cooling centers, but implementing protections for workers whose jobs keep them outside.",
+      "“Everything is connected,” Rose said. “Health is a part of the picture, but it’s also tightly bound with economic wellbeing and social wellbeing.”"
+    ]
+  },
+  {
+    "id": 9,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/tribal",
+    "title": "Chancellor Mnookin heads northwest to meet with tribal leaders and UW–Madison partners",
+    "tags": [
+      "chancellor"
+    ],
+    "body": [
+      "Since becoming the University of Wisconsin–Madison’s 30th leader on Aug. 4, Chancellor Jennifer L. Mnookin has made it a priority to learn more about the state, listening to the university’s many stakeholders about what the institution is doing well and what it can do better.",
+      "This week, Mnookin’s travels led her to northwestern Wisconsin, starting in Black River Falls and a meeting with Ho-Chunk Nation leadership, including President Marlon WhiteEagle. The group discussed shared priorities and UW–Madison’s commitment to providing greater access to Native American students.",
+      "The next stop was the Wisconsin Cranberry Research Station near Millston. The station is a private-public partnership with contributions from cranberry growers, cranberry businesses and the USDA-Agricultural Research Service, with UW­–Madison contributing $500,000 to support it. Wisconsin produces more than 60 percent of the nation’s cranberry crop, expected to exceed 500 million pounds this year."
+    ]
+  },
+  {
+    "id": 10,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/commercial",
+    "title": "New commercial highlights Badger values, from studious to well-deserved fun",
+    "tags": [
+      "entertainment"
+    ],
+    "body": [
+      "“Welcome to the University of Wisconsin–Madison, purveyor of Midwestern values.”",
+      "So starts a new 30-second commercial that puts a playful spin on these values, whether in the classroom or at the Terrace.",
+      "A hard day’s work, lending a helping hand and living with integrity are just a few examples of “what makes a Badger unstoppable.”",
+      "The promo made its broadcast debut during Saturday’s Badger football game against the Ohio State Buckeyes and will air during future games as well.",
+      "Beginning with black-and-white pictures from the past, then segueing to a current colorful campus, the commercial makes it clear — no matter how much has changed, our values haven’t.",
+      "In 2020, a commercial aired during a Badger game as well – but even though it was a mere two years ago, it was a much different time. The Badgers defeated the Illinois Fighting Illini 24-0 in front of empty stands at Camp Randall. Existing photo and video assets were used to avoid in-person filming and to save on resources in a tight fiscal environment. The creative idea generation, script, and production was done entirely remotely by staff working from home.",
+      "“You can’t stop a Badger” was a fitting theme with the commercial highlighting UW–Madison health care workers, researchers and others on campus who’ve all pitched in during the battle against COVID-19.",
+      "Tricia Nolan, UW–Madison’s assistant vice chancellor of marketing and brand strategy, says this year’s commercial marks a return to form – and a return to campus."
+    ]
+  },
+  {
+    "id": 11,
+    "img": "https://www.coletnelson.us/cs571/f22/hw7/api/news/images/moo",
+    "title": "Chancellor Mnookin tours dairy farm, highlights research efforts",
+    "tags": [
+      "chancellor",
+      "science"
+    ],
+    "body": [
+      "Chancellor Jennifer L. Mnookin on Monday toured the Schmidt family farm in Lone Rock, Wis., a 3,000-cow dairy operation that produces 330,000 pounds of milk daily. The family told her about their commitment to sustainable farming practices and the key role UW–Madison plays in the dairy industry in Wisconsin and beyond. Mnookin also visited UW–Platteville’s Pioneer Farm on Monday, highlighting UW–Madison’s Dairy Innovation Hub partnership with UW–Platteville and UW–River Falls.",
+      "The Dairy Innovation Hub receives $7.8 million from the state annually with the goal of conducting research and offering support to keep Wisconsin’s dairy community at the global forefront in producing nutritious dairy products in an economically, environmentally and socially sustainable manner. In Wisconsin, 79,000 jobs are dairy farming or processing related, with 6,275 dairy farms that produce 31.7 billion pounds of milk."
+    ]
+  }
+]

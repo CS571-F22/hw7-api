@@ -1,0 +1,37 @@
+Partisan divide contributed to false sense of racial equality in pandemic mortality
+https://www.coletnelson.us/cs571/f22/hw7/api/news/images/covid
+covid,social justice
+
+The early months of the COVID-19 pandemic were marked by far higher death rates among Black people than white people in the United States. Before 2020 ended, however, differences between the two groups had nearly equalized.
+
+What may have appeared to be equality was not an improvement for Black people, but an increasingly worse pandemic for white people. Despite the appearance of raw mortality counts, analysis by researchers at the University of Wisconsin–Madison confirms that Black Americans shoulder a comparatively greater mortality burden, even when accounting for their comparatively younger population with age-standardization, and widening partisan differences likely contributed to the jump in white deaths.
+
+“The takeaway for many people may be, ‘Oh, isn’t it a good thing that we diminished the racial difference in mortality?’ But that doesn’t address what changed, and that the changes were not for the better,” says Adeline Lo, lead author of the study, published recently in the journal PLOS ONE, and a UW–Madison professor of political science. “It’s important to underline what is actually happening, and to show the important role that politics play.”
+
+Black and Latino people are disproportionately more likely to work in jobs that have to be done in person and in close contact with other people, Lo says, leaving them more likely to be exposed and infected by the virus that causes COVID-19.
+
+“That didn’t change as the racial differences in the mortality rate shifted,” Lo says. “Other factors — like geographical distribution, healthcare access, income equality — that contributed to the initial higher rate of Black deaths didn’t go away either.”
+
+What did change was that spiraling death counts disproportionately tilted toward white people, and differences in levels of concern about the pandemic and acceptance of protective public health measures grew along political lines.
+
+“We’ve seen all of our states react very differently to different moments in time of the pandemic. Stay-at-home mandates, school closures or work closures, suggestions to not congregate in groups over a certain size — these are all sort of the battery of things available to public policy at a state level,” Lo says. “Over time, there were much different policies in place in states with Republican governors than in states with Democratic governors.”
+
+Using an index of pandemic containment and health policy from the University of Oxford COVID-19 Government Response Tracker compiled weekly for each state in the U.S. through May 2021, the researchers showed that state policies reacted similarly for a few weeks at the beginning of the pandemic.
+
+However, within a month, states with Republican-controlled executive branches were lifting pandemic-related measures, leading to lower index scores compared to those of other states. The index gap continued to grow from about April through October in 2020. At the same time, deaths of white people grew fast enough to outpace already high counts among Black people.
+
+“If you were under a Republican governor, who is likely to enact fewer protective policies at a slower rate, that has an effect on COVID’s spread and — controlling for age and other factors in mortality — is negatively correlated with COVID inequality,” Lo says. “In states where you’re less likely to see public health policies to contain the virus, you’re more likely to see white deaths in equal proportion with Black deaths, but not because the death rates are any better for Black people in those states.”
+
+Public opinion polling, also conducted weekly through May 2021, shows a widening gap in concern about COVID-19 between people who identified as Democrats and those who identified as Republicans.
+
+More than 20 percent of Republicans polled at the start the pandemic reported they were “extremely concerned by the coronavirus outbreak,” but that quickly fell to less than 10 percent and stayed near or below that figure into 2021. The proportion of Republicans “not very concerned” began at fewer than 20 percent but doubled in a month and grew to nearly 70 percent by May of 2021. Meanwhile, between 50 and 70 percent Democrats were “extremely concerned” throughout 2020, while less than 10 percent reported they were “not concerned” all the way through 2020 to May of 2021.
+
+“As Republicans are growing less concerned about the pandemic compared to Democrats, white deaths grew to surpass Black deaths until we see this false sort of equality,” Lo says.
+
+Importantly, the researchers separated the party opinions by race as well, showing that Black people’s level of concern about the virus ran close to that of the white people who shared their political affiliation, but far from the Black people who identified with the other political party.
+
+“Race obviously matters when looking at the concern that motivates people’s behavior,” says Lo. “But if we’re comparing magnitudes, party politics appears to be a far stronger indication of how individuals are reacting to the virus.”
+
+The changes in party-related sentiment and policy alongside shifting mortality figures are stark evidence of the way partisan divisions can manifest in our lives, according to the research team, which included La Follette School of Public Affairs professor Héctor Pifarré i Arolas, political science professor Jonathan Renshon and Siyu Liang, a graduate student in political science at the University of California Los Angeles who worked on the study while an undergraduate at UW–Madison.
+
+“Polarization of public opinion has huge impacts across both our political arena and, it turns out, public health as well. The outcomes can be hugely important,” says Lo. “The issue of polarization and the inability of groups to communicate on similar grounds and find ways to drift closer together rather than further apart was a concern already. The pandemic and the way it shows up in these results have made us even more worried.”
