@@ -85,10 +85,14 @@ app.get('/api/news/articles', (req: any, res) => {
     res.status(200).send(MINI_NEWS_ARTICLES);
 });
 
-app.get('/api/news/articles/:artNum', (req: any, res) => {
+app.get('/api/news/articles/:artNum', async (req: any, res) => {
     const artNum = req.params.artNum;
     if(isInt(artNum) && artNum >= 0 && artNum < NEWS_ARTICLES.length) {
-        res.status(200).send(NEWS_ARTICLES[parseInt(artNum)]);
+        // Make enterprisey (intentionally lag to see loading symbol)
+        // inspiration: https://github.com/airblade/acts_as_enterprisey
+        setTimeout(() => {
+            res.status(200).send(NEWS_ARTICLES[parseInt(artNum)]);
+        }, 1500)
     } else {
         res.status(400).send({
             msg: "Please specify a valid article number."
