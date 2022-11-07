@@ -27,7 +27,7 @@ const MINI_NEWS_ARTICLES = NEWS_ARTICLES.map((art: any) => {
     }
 });
 
-const ALL_TAGS = [...new Set(NEWS_ARTICLES.reduce((p: any, c: any) => p.concat(c), []))]
+const ALL_TAGS = [...new Set(NEWS_ARTICLES.reduce((p: any, c: any) => p.concat(c.tags), []))]
 
 const IMGS = NEWS_ARTICLES.map((art: any) => art.img.split("/").slice(-1)[0])
 
